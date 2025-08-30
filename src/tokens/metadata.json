@@ -1,11 +1,13 @@
 {
-  "name": "$CNC",
+  "chainId": 101,
+  "address": "2xPYxmJByaFFp9KyF6Q89Yojs8tkqXZobsez2HUTDv3H",
   "symbol": "$CNC",
-  "description": "$CNC",
-  "image": "https://cdn.dribbble.com/userupload/34522308/file/original-8b9f65ef85f28a7a1f0b1dd30db131d2.jpg?resize=752x&vertical=center",
-  "seller_fee_basis_points": 0,
-  "attributes": [],
-  "properties": {
-    "creators": null
+  "name": "Connections",
+  "decimals": 9,
+  "logoURI": "https://github.com/codydeflorenca-pixel/-CNC-metadata/blob/488cfe6b52e1bbb0790dace9eaa5617b1317be9b/original-8b9f65ef85f28a7a1f0b1dd30db131d2.png",
+  "tags": [CNC],
+  "extensions": {
+    "coingeckoId": "",
+    "website": "https://github.com/codydeflorenca-pixel/-CNC-metadata"
   }
 }
