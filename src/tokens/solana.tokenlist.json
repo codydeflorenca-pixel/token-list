@@ -5,9 +5,10 @@
   "name": "Connections",
   "decimals": 9,
   "logoURI": "https://github.com/codydeflorenca-pixel/-CNC-metadata/blob/488cfe6b52e1bbb0790dace9eaa5617b1317be9b/original-8b9f65ef85f28a7a1f0b1dd30db131d2.png",
-  "tags": [CNC],
+  "tags": ["CNC"],
   "extensions": {
     "coingeckoId": "",
     "website": "https://github.com/codydeflorenca-pixel/-CNC-metadata"
   }
 }
+
